@@ -1,0 +1,15 @@
+{
+  "name": "quest-security-xss-advanced-prevent",
+  "version": "1.0.0",
+  "description": "Challenge for the XSS prevention quest !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^3.0.4"
+  }
+}
